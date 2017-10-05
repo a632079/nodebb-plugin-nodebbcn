@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-quickstart",
-  "version": "0.2.3",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "name": "nodebb-plugin-nodebbcn",
+  "version": "0.0.1",
+  "description": "适用于中国国情的本地化插件。",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart"
+    "url": "https://github.com/a632079/nodebb-plugin-nodebbcn"
   },
   "keywords": [
     "nodebb",
@@ -14,12 +14,12 @@
     "shell"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "a632079",
+    "email": "a632079@qq.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/a632079/nodebb-plugin-nodebbcn/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
